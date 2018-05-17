@@ -15,3 +15,7 @@ Is a game which the player try to reach the water without any collision with the
 ## Tools Used: 
 This file to start with from Udacity which contain the game engin and resource javascript files 
 [art assets and game engine](https://github.com/udacity/frontend-nanodegree-arcade-game)
+
+
+###Instructions
+To play the game download all the files and open index.html in your browser.
