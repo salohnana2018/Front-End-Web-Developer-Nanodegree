@@ -17,5 +17,6 @@ This file to start with from Udacity which contain the game engin and resource j
 [art assets and game engine](https://github.com/udacity/frontend-nanodegree-arcade-game)
 
 
-###Instructions
+### Instructions
 To play the game download all the files and open index.html in your browser.
+or you can play it directly from this link [Arcade Game](https://rawgit.com/salohnana2018/fend/ArcadeGame/ArcadeGame/index.html)
